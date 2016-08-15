@@ -1,4 +1,4 @@
-all: index.html index.pdf
+all: index.html index.pdf index_ger.pdf index_ger.pdf
 
 
 # index.docx index.txt

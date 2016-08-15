@@ -1,0 +1,59 @@
+* Aaron Rebmann
+
+--------------
+
+#+BEGIN_QUOTE
+
+#+END_QUOTE
+
+--------------
+
+** Corporate Experience
+
+-  Since 2013 :: /Data Scientist for
+   [[https://www.airconomy.com/][Airconomy]]/ (Frankfurt am Main,
+   Germany).
+
+   Data mining on various sources to forecast passenger demands over
+   airline networks.
+
+-  2009-2012 :: /PhD in Operations Research with
+   [[http://www.amadeus.com/amadeus/amadeus.html][Amadeus]]/ (Sophia
+   Antipolis, France).
+
+   Researched how to assign aircraft on an airline network in the most
+   efficient way. I authored several projects, including a C++ solver, a
+   Python suite of 20+ command line tools, and Hadoop data mining
+   scripts. I also worked as a teaching assistant at the university,
+   further improving my communication and public speaking skills.
+
+-  2008 (3 months) :: /Internship at
+   [[http://www.riotintoalcan.com/][Rio Tinto Alcan]]/ (Clermont
+   Ferrand, France).
+
+   Co-authored a C++ library for optimizing the revenue of a metal
+   factory. This work was published in the corporate journal of the
+   company.
+
+-  2007 (3 months) :: /Internship at
+   [[http://www3.gehealthcare.com/en/Global_Gateway][GE Healthcare]]/
+   (Paris, France).
+
+   Elaborated an UML spec for the refactoring of 20.000 lines of C++.
+
+** Ausbildung
+
+- 2012-2013 :: Ausbildung Pharmazeutisch-Technischer Assistent (Hochschule Fresenius Idstein)
+- 2013-Juni 2016 :: B.Sc. in Wirtschaftschemie (Hochschule Fresenius Idstein)
+
+
+** Activities and interests
+
+
+--------------
+
+#+BEGIN_QUOTE
+  [[mailto:chmd@chmd.fr][chmd@chmd.fr]] • +336 84 14 26 82 • 28 years
+  old\\
+  275, chemin du Petit Castel - 13100 Aix en Provence, FRANCE
+#+END_QUOTE
