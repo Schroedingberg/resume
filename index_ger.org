@@ -2,58 +2,59 @@
 
 --------------
 
-#+BEGIN_QUOTE
-
-#+END_QUOTE
-
 --------------
 
-** Corporate Experience
+** Persönliche Angaben 
+- 08.09.1992 :: Geburt im St.Anna Krankenhaus in Hadamar, Kreis Limburg-Weilburg
 
--  Since 2013 :: /Data Scientist for
-   [[https://www.airconomy.com/][Airconomy]]/ (Frankfurt am Main,
-   Germany).
-
-   Data mining on various sources to forecast passenger demands over
-   airline networks.
-
--  2009-2012 :: /PhD in Operations Research with
-   [[http://www.amadeus.com/amadeus/amadeus.html][Amadeus]]/ (Sophia
-   Antipolis, France).
-
-   Researched how to assign aircraft on an airline network in the most
-   efficient way. I authored several projects, including a C++ solver, a
-   Python suite of 20+ command line tools, and Hadoop data mining
-   scripts. I also worked as a teaching assistant at the university,
-   further improving my communication and public speaking skills.
-
--  2008 (3 months) :: /Internship at
-   [[http://www.riotintoalcan.com/][Rio Tinto Alcan]]/ (Clermont
-   Ferrand, France).
-
-   Co-authored a C++ library for optimizing the revenue of a metal
-   factory. This work was published in the corporate journal of the
-   company.
-
--  2007 (3 months) :: /Internship at
-   [[http://www3.gehealthcare.com/en/Global_Gateway][GE Healthcare]]/
-   (Paris, France).
-
-   Elaborated an UML spec for the refactoring of 20.000 lines of C++.
+** Schulausbildung
+- 1999-2003 :: Grundschule Gemünden
+- 2003-2009 :: Konrad-Adenauer-Gymnasium Westerburg
+- 2009-2012 :: Adolf-Reichwein-Schule Limburg (Lahn)
+               Berufliches Gymnasium Gesundheit
 
 ** Ausbildung
-
 - 2012-2013 :: Ausbildung Pharmazeutisch-Technischer Assistent (Hochschule Fresenius Idstein)
-- 2013-Juni 2016 :: B.Sc. in Wirtschaftschemie (Hochschule Fresenius Idstein)
+- 2013-Juni 2016 :: B.Sc. in Wirtschaftschemie (Hochschule Fresenius Idstein)\\
+                    Vier Semester Chemie.\\
+                    Ein Semester Betriebswirtschaftslehre.\\
+                    Ein Semester chemische Bachelorarbeit im polymeranalytischen Forschungsinstitut in Parramatta (Australien).\\
+                    Thema der Bachelorarbeit: "Spectroscopic characterization of additives in an industrial polyamide adhesive"
+
+                    
 
 
-** Activities and interests
 
 
+** Sprachen
+- Deutsch ::
+            Muttersprache
+- Englisch ::
+             Verhandlungssicher
+- Französisch ::
+                Grundkenntnisse
+
+** Aktivitäten und Engagement
+- 2013-2015 :: Idsteiner Mittwochsgesellschaft\\
+               Philosophische Diskussionsrunde
+- 2014-2015 :: Kulturbahnhof Idstein\\
+               Mitarbeit bei der Einrichtung, Betrieb des Studentencafés
+- 2013-2015 :: Teilnahme am Buddy-Projekt der Hochschule Fresenius Idstein
+- seit 2005 :: Gitarrenunterricht
+- seit 2001 :: Kampfsport\\
+               Judo, Muay Thai
+- seit 2009 :: Kraftsport
+- seit 2013 :: Programmierung\\
+               Python, Lisp, Bash, C/C++
+
+
+
+** Stipendien
+
+- 2015-2016 :: Deutschlandstipendium
+- 2016 :: PROMOS-Stipendium des Deutschen akademischen Austauschdienstes
 --------------
 
 #+BEGIN_QUOTE
-  [[mailto:chmd@chmd.fr][chmd@chmd.fr]] • +336 84 14 26 82 • 28 years
-  old\\
-  275, chemin du Petit Castel - 13100 Aix en Provence, FRANCE
+  [[mailto:aaronrebmann@zoho.com][aaronrebmann@zoho.com]] • +49 171 8059920 • 23 Jahre alt\\
 #+END_QUOTE
