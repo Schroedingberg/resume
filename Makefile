@@ -1,7 +1,15 @@
-all: index.html index.pdf index_ger.pdf index_ger.pdf
+all: index.html index.pdf index_ger.pdf
 
 
 # index.docx index.txt
+
+pdf: index_ger.pdf
+index_ger.pdf: index_ger.org
+	pandoc --standalone --template style.tex \
+	--from org --to context \
+	-V papersize=A4 \
+	-o index_ger.tex index_ger.org; \
+context index_ger.tex
 
 index.html: index.org style.css
 	pandoc --standalone -c style.css --from org --to html -o index.html index.org
@@ -9,11 +17,11 @@ index.html: index.org style.css
 index_ger.html: index_ger.org style.css
 	pandoc --standalone -c style.css --from org --to html -o index_ger.html index_ger.org
 
-index.pdf: index.html
-	wkhtmltopdf index.html index.pdf
+# index.pdf: index.html
+# 	wkhtmltopdf index.html index.pdf
 
-index_ger.pdf: index_ger.html
-	wkhtmltopdf index_ger.html index_ger.pdf
+# index_ger.pdf: index_ger.html
+# 	wkhtmltopdf index_ger.html index_ger.pdf
 
 
 # index.docx: index.md
