@@ -56,5 +56,5 @@
 --------------
 
 #+BEGIN_QUOTE
-  [[mailto:aaronrebmann@zoho.com][aaronrebmann@zoho.com]] • +49 171 8059920 • 23 Jahre alt\\
+[[mailto:aaronrebmann@zoho.com][aaronrebmann@zoho.com]] • +49 171 8059920
 #+END_QUOTE
